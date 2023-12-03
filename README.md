@@ -13,6 +13,7 @@ Para ejecutar el proyecto se deben realizar los siguientes pasos:
 5. Abrir http://localhost:3000/ en el Browser (Chrome)
     
 6. Una vez ambos servicios estén corriendo como local host, se puede iniciar la validación de los datos de inicio de sesión, para ello se debe utilizar cualquiera de los siguientes datos de ingreso:
+
         username: cgarcia
         password: 12345
     
