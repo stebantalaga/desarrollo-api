@@ -1,6 +1,9 @@
 # desarrollo-api
 
-Para ejecutar el proyecto se deben realizar los siguientes pasos:
+Para ejecutar el proyecto se puede seguir los pasos descritos en el video:
+https://youtu.be/XCCwsS7YzPY
+
+O se pueden realizar los siguientes pasos descritos a continuación:
 
 1. Descomprimir el archivo ZIP
    
