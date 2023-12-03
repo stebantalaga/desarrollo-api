@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "apellido_paterno": "García",
+      "apellido_materno": "Ramírez",
+      "nombre": "Carla",
+      "username": "cgarcia",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "apellido_paterno": "Herrera",
+      "apellido_materno": "Soto",
+      "nombre": "Luis",
+      "username": "lherrera",
+      "password": "01cfcd4f6b8770febfb40cb906715822"
+    },
+    {
+      "id": 3,
+      "apellido_paterno": "Dante",
+      "apellido_materno": "Ruiz",
+      "nombre": "Julián",
+      "username": "jdante",
+      "password": "b0baee9d279d34fa1dfd71aadb908c3f"
+    },
+    {
+      "id": 4,
+      "apellido_paterno": "Celis",
+      "apellido_materno": "López",
+      "nombre": "Ana",
+      "username": "alopez",
+      "password": "3d2172418ce305c7d16d4b05597c6a59"
+    },
+    {
+      "id": 5,
+      "apellido_paterno": "Jaramillo",
+      "apellido_materno": "Mora",
+      "nombre": "Angie",
+      "username": "amora",
+      "password": "b7bc2a2f5bb6d521e64c8974c143e9a0"
+    }
+  ]
+}
